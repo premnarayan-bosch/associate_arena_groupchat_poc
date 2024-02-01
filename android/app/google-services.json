@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848781214487",
+    "project_id": "associate-arena-group-ch-bc8f2",
+    "storage_bucket": "associate-arena-group-ch-bc8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848781214487:android:924574c9eb1c3d4e982d52",
+        "android_client_info": {
+          "package_name": "com.example.associate_arena_groupchat_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_KBIx-o7uqsVLKhIgUjBVFR-7mQhOso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
